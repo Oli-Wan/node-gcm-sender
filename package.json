@@ -1,0 +1,9 @@
+{
+	"name": "node-gcm-sender",
+	"description": "Node GCM sender",
+	"version": "0.0.1",
+	"dependencies": {
+		"node-gcm": "0.9.6",
+		"socket.io-client": "0.9.11"
+	}
+}
