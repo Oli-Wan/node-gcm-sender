@@ -11,4 +11,4 @@ new gcm.Sender => Access Key de votre Google API
 
 regristrationsID => Array de registration ID des clients qui se sont enregistrés auprès de GCM
 
-Ce projet s'appuie sur node-gcm.
+Ce projet s'appuie sur node-gcm. Il faut lancer la commande `npm install` avant de pouvoir lancer le serveur avec la commande `node server.js` .
